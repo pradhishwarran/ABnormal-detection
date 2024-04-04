@@ -1,0 +1,5 @@
+train: /content/dataset/train
+val: /content/dataset/valid
+test: /content/dataset/test
+nc: 2
+names: ['Normal', 'Abnormal']
